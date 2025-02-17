@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS payments;
+DROP TABLE IF EXISTS transfers;
+DROP TABLE IF EXISTS transactions;
+DROP TABLE IF EXISTS invoices;
+DROP TABLE IF EXISTS accounts;
